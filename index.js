@@ -1,3 +1,4 @@
 function code(){
-    var = "say something"
+    var string = "say something"
+    let name = "Sri"
 }
